@@ -159,7 +159,7 @@ flowchart LR
       <h3>📊 Spotify Data Analytics Dashboard</h3>
       <p>An interactive business intelligence project analyzing music streaming trends, audio feature distributions, and artist popularity metrics using Power BI.</p>
       <p><b>Tech:</b> <code>Power BI</code> · <code>Data Analysis</code> · <code>DAX</code> · <code>Excel</code></p>
-      <p>🔗 <a href="https://github.com/AT-1006/spotify-powerbi-analysis">View Repository</a></p>
+      <p>🔗 <a href="https://github.com/AT-1006/Spotify-Analysis-PowerBI">View on GitHub (Live Repo)</a></p>
     </td>
   </tr>
   <tr>
