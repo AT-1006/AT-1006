@@ -145,7 +145,7 @@ flowchart LR
       <h3>✨ Celestera</h3>
       <p>A multipurpose AI assistant mobile application equipped with dynamic assistant personas, on-device biometric authentication, and cloud-synced conversation history.</p>
       <p><b>Tech:</b> <code>Flutter</code> · <code>Dart</code> · <code>Firebase</code> · <code>Groq API</code> · <code>Biometrics</code></p>
-      <p>🔗 <a href="https://github.com/AT-1006/celestera">View Repository</a></p>
+      <p>🔗 <a href="https://github.com/AT-1006/Celestera-AI">View on GitHub (Live Repo)</a></p>
     </td>
   </tr>
   <tr>
@@ -163,7 +163,13 @@ flowchart LR
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3>⌚ Casio Mobile Store</h3>
+      <p>A native Android e-commerce and catalog application showcasing G-Shock, Vintage timepieces, scientific calculators, and musical instruments with custom floating navigation.</p>
+      <p><b>Tech:</b> <code>Android</code> · <code>Java</code> · <code>Material Design</code> · <code>RecyclerView</code></p>
+      <p>🔗 <a href="https://github.com/AT-1006/Casio-mobile-app">View on GitHub (Live Repo)</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌐 Jarvis HUD — Reactive Sci-Fi Interface</h3>
       <p>A cyberpunk-themed reactive HUD interface with an audio-reactive voice orb powered by the Web Audio API, draggable telemetry panels, and real-time system monitoring.</p>
       <p><b>Tech:</b> <code>React 19</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Web Audio API</code> · <code>Tailwind CSS</code></p>
