@@ -1,89 +1,116 @@
-<div align="center">
+<div align="left">
 
-# Atharv Gawand
+# Hi, I'm Atharv 👋
 
-**Software Developer & AI Systems Builder**  
-Building autonomous agents, real-time multimodal assistants, and reactive full-stack interfaces.
+### Building practical software, AI assistants & intelligent applications.
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-AT--1006-181717?style=flat-square&logo=github)](https://github.com/AT-1006)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00f5ff?style=flat-square&logo=google-chrome&logoColor=black)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/atharv-gawand)
-[![Email](https://img.shields.io/badge/Email-atharvgawand2%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:atharvgawand2@gmail.com)
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=620&lines=Software+Development+%7C+AI+%26+Agentic+Systems;Building+with+Python%2C+Flutter%2C+Firebase+%26+Modern+Web;Exploring+local+computer+automation+%26+multimodal+AI" alt="Typing Tagline" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### ⚡ At a Glance
+### 👨‍💻 About Me
 
-```yaml
-Name: Atharv Gawand
-Location: Mumbai, India
-Focus: Agentic AI, Autonomous Workflows, Multimodal Systems, Full-Stack Architecture
-Primary_Stack: [Python, FastAPI, TypeScript, React, Flutter, Groq API, Edge-TTS, MediaPipe]
-Status: Engineering Student & Builder · Open to High-Impact Opportunities & Collaborations
-```
+I am a software developer focused on engineering practical, real-world applications and integrating machine intelligence into everyday workflows. I build across mobile, desktop, and web environments, combining clean software engineering principles with modern AI/LLM capabilities.
+
+- 🎯 **Focus**: Developing useful AI-powered software, intuitive mobile applications, and automated workflows.
+- 💡 **Philosophy**: Prioritizing working software, responsive interfaces, and practical problem-solving over hype.
+- 🎓 **Background**: Engineering student with strong fundamentals in algorithms, systems, and application architecture.
 
 ---
 
-### 🧬 About Me
+### 🔭 Currently Exploring
 
-I design and engineer end-to-end software systems that bridge **machine intelligence with practical user applications**. My work centers on autonomous agent architectures, local desktop automation, low-latency voice synthesis, and real-time computer vision interfaces.
-
-- 🛠️ **Agentic Systems & Automation**: Building LLM-driven execution loops that plan, validate, and invoke local system tools and web actions safely.
-- 🎙️ **Voice & Multimodal AI**: Integrating high-throughput inference (Groq Whisper & Llama models) with neural text-to-speech pipelines (Edge-TTS) and reactive visual telemetry.
-- 📱 **Cross-Platform Engineering**: Developing production-grade mobile applications in Flutter with biometric security, alongside responsive web HUDs built with React 19 and TypeScript.
-- 👁️ **Applied Computer Vision**: Implementing real-time landmark tracking (MediaPipe, OpenCV) for gesture-driven hardware control (ESP32 IoT over UDP).
+- 🤖 **Agentic AI**: Multi-step reasoning loops, autonomous planning, and structured tool calling.
+- ⚡ **AI-Powered Applications**: Practical LLM integrations with real-time web search and neural voice pipelines.
+- 💻 **Local Computer Automation**: System-level bridges to interact with and control desktop applications safely.
+- 📱 **Modern Software Development**: Scalable Flutter architectures, reactive frontends, and cloud data synchronization.
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Tech Stack
 
-All technologies listed below represent tools and frameworks actively utilized in my codebases:
+#### Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, Dart, Java, C++, SQL |
-| **AI & Multimodal** | Groq API (LLM/Whisper), Microsoft Edge-TTS, MediaPipe, OpenCV, Cohere, scikit-learn |
-| **Backend & Systems** | FastAPI, Pydantic, Uvicorn, REST APIs, WebSockets, UDP Sockets, BeautifulSoup4, Selenium |
-| **Frontend & Mobile** | React 19, TypeScript, Vite, Flutter, Dart, Tailwind CSS, CustomTkinter, PyQt5 |
-| **Cloud & Storage** | Firebase (Auth, Firestore), SQLite, Git, Linux / Windows Subsystems |
-| **Hardware & IoT** | ESP32 Microcontrollers, UDP Packet Streaming, Serial Communication |
+#### Application & Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+#### AI & Intelligent Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM_APIs-Groq-F55036?style=flat-square" alt="Groq API" />
+  <img src="https://img.shields.io/badge/Voice_AI-Edge--TTS-0078D7?style=flat-square" alt="Edge-TTS" />
+  <img src="https://img.shields.io/badge/Speech-Whisper_STT-2B2B2B?style=flat-square" alt="Whisper STT" />
+  <img src="https://img.shields.io/badge/Concepts-Agentic_AI-00f5ff?style=flat-square&logoColor=black" alt="Agentic AI" />
+</p>
+
+#### Tools & Data Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-### 🚀 Featured Systems & Projects
+### 🚀 Featured Projects
 
-#### 1. [OMNIAI — Full-Stack Agentic Intelligence System](https://github.com/AT-1006/OMNIAI)
-> *Autonomous multi-service AI assistant featuring desktop tool calling, neural voice synthesis, and a reactive HUD.*
-- **Core Architecture**: Decoupled FastAPI backend and React 19/TypeScript frontend communicating over REST and WebSocket channels.
-- **Key Features**: Action planner for Windows application control (`local-actions`), web search synthesis, Whisper speech-to-text, Edge-TTS neural prosody modulation, and a live sci-fi telemetry dashboard.
-- **Tech**: `FastAPI` · `Python` · `React 19` · `TypeScript` · `Groq LLM` · `Edge-TTS`
-
-#### 2. [Jarvis HUD — Cyberpunk Reactive Interface](https://github.com/AT-1006/jarvis-frontend)
-> *Sci-fi HUD interface with real-time audio visualization, draggable modular panels, and telemetry monitors.*
-- **Key Features**: Dynamic voice orb animated via Web Audio API frequency analysis, system health polling, responsive glassmorphism aesthetic, and modular component architecture.
-- **Tech**: `React 19` · `TypeScript` · `Vite` · `Web Audio API` · `Tailwind CSS`
-
-#### 3. [Celestera Mobile — Secure AI Assistant](https://github.com/AT-1006/celestera-ai-mobile)
-> *Production-grade Flutter mobile application integrating on-device biometrics with cloud-synced AI services.*
-- **Key Features**: Biometric authentication (fingerprint/face unlock), PIN-protected chat archives, Groq conversational engine, Gradio-backed text-to-image pipeline, and multi-persona prompt orchestration.
-- **Tech**: `Flutter` · `Dart` · `Firebase` · `Groq API` · `Provider` · `Local Biometrics`
-
-#### 4. [Realtime Voice AI & Search Assistant](https://github.com/AT-1006/realtime-voice-assistant)
-> *Desktop assistant combining intent classification, live internet search retrieval, and OS automation.*
-- **Key Features**: Custom intent classifier parsing natural language instructions into OS execution calls, web scraping engine for real-time information grounding, and a CustomTkinter desktop interface.
-- **Tech**: `Python` · `CustomTkinter` · `Groq API` · `Edge-TTS` · `Selenium` · `BeautifulSoup4`
-
-#### 5. [Vision ESP32 Robotics — Gesture & Facial Control](https://github.com/AT-1006/vision-esp32-robotics)
-> *Low-latency human-computer interaction system translating computer vision landmarks into physical robot actuation.*
-- **Key Features**: Real-time Eye Aspect Ratio (EAR) blink detection, smile expression classification, and hand-pinch triggers streamed via UDP datagrams to an ESP32 robot over Wi-Fi.
-- **Tech**: `Python` · `OpenCV` · `MediaPipe FaceMesh` · `UDP Sockets` · `ESP32 Microcontroller`
-
-#### 6. [Elevator Dispatch Simulator](https://github.com/AT-1006/elevator-dispatch-simulator)
-> *Object-oriented algorithmic simulation of multi-elevator request scheduling and priority queue optimization.*
-- **Key Features**: Custom circular queue implementations, event-driven state transitions, and real-time request dispatching logic.
-- **Tech**: `Java` · `Data Structures & Algorithms` · `OOP` · `Queue Management`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 OMNIAI</h3>
+      <p>An autonomous AI assistant inspired by futuristic interfaces, featuring low-latency voice interaction, intelligent tool calling, and native local PC automation.</p>
+      <p><b>Tech:</b> <code>Python</code> · <code>FastAPI</code> · <code>Groq LLM</code> · <code>Edge-TTS</code> · <code>React</code></p>
+      <p>🔗 <a href="https://github.com/AT-1006/OMNIAI">View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ Celestera</h3>
+      <p>A multipurpose AI assistant mobile application equipped with dynamic assistant personas, on-device biometric authentication, and cloud-synced conversation history.</p>
+      <p><b>Tech:</b> <code>Flutter</code> · <code>Dart</code> · <code>Firebase</code> · <code>Groq API</code> · <code>Biometrics</code></p>
+      <p>🔗 <a href="https://github.com/AT-1006/celestera">View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Attendance Management System</h3>
+      <p>A cross-platform mobile application developed to automate and streamline student and employee attendance logging with real-time cloud data storage.</p>
+      <p><b>Tech:</b> <code>Flutter</code> · <code>Dart</code> · <code>Firebase Auth</code> · <code>Cloud Firestore</code></p>
+      <p>🔗 <a href="https://github.com/AT-1006/attendance-management-system">View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Spotify Data Analytics Dashboard</h3>
+      <p>An interactive business intelligence project analyzing music streaming trends, audio feature distributions, and artist popularity metrics using Power BI.</p>
+      <p><b>Tech:</b> <code>Power BI</code> · <code>Data Analysis</code> · <code>DAX</code> · <code>Excel</code></p>
+      <p>🔗 <a href="https://github.com/AT-1006/spotify-powerbi-analysis">View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 Jarvis HUD — Reactive Sci-Fi Interface</h3>
+      <p>A cyberpunk-themed reactive HUD interface with an audio-reactive voice orb powered by the Web Audio API, draggable telemetry panels, and real-time system monitoring.</p>
+      <p><b>Tech:</b> <code>React 19</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Web Audio API</code> · <code>Tailwind CSS</code></p>
+      <p>🔗 <a href="https://github.com/AT-1006/jarvis-frontend">View on GitHub (Live Repo)</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,16 +118,35 @@ All technologies listed below represent tools and frameworks actively utilized i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AT-1006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AT-1006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=c9d1d9" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AT-1006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AT-1006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" height="150" alt="Top Languages" />
 
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AT-1006&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📬 Connect
+### 📬 Connect With Me
 
-- **Email**: [atharvgawand2@gmail.com](mailto:atharvgawand2@gmail.com)
-- **LinkedIn**: [linkedin.com/in/atharv-gawand](https://linkedin.com/in/atharv-gawand)
-- **GitHub**: [github.com/AT-1006](https://github.com/AT-1006)
-- **Location**: Mumbai, Maharashtra, India
+<p align="left">
+  <a href="https://linkedin.com/in/atharv-gawand">
+    <img src="https://img.shields.io/badge/LinkedIn-Atharv_Gawand-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/your-username">
+    <img src="https://img.shields.io/badge/Instagram-@your--handle-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:atharvgawand2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-atharvgawand2%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Always building. Always learning. 🚀</sub>
+</div>
