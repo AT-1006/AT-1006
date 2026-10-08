@@ -10,6 +10,18 @@
   </a>
 </p>
 
+```yaml
+┌── [ AT-1006 // DEVELOPER TELEMETRY ] ──────────────────────────────────────────────┐
+│                                                                                    │
+│  ● STATUS      : ACTIVE BUILDER & ENGINEERING STUDENT                              │
+│  ● LOCATION    : MUMBAI, INDIA [UTC+05:30]                                         │
+│  ● FOCUS       : AUTONOMOUS AGENT LOOPS · MULTIMODAL ASSISTANTS · REACTIVE HUDS    │
+│  ● ECOSYSTEM   : OMNIAI [AGENT CORE] · CELESTERA [MOBILE AI] · JARVIS [HUD]        │
+│  ● MISSION     : BRIDGING AUTONOMOUS REASONING WITH PRACTICAL EVERYDAY WORKFLOWS   │
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
@@ -21,6 +33,54 @@ I am a software developer focused on engineering practical, real-world applicati
 - 🎯 **Focus**: Developing useful AI-powered software, intuitive mobile applications, and automated workflows.
 - 💡 **Philosophy**: Prioritizing working software, responsive interfaces, and practical problem-solving over hype.
 - 🎓 **Background**: Engineering student with strong fundamentals in algorithms, systems, and application architecture.
+
+---
+
+### 🧬 System Architecture: The Agentic Pipeline
+
+*An overview of how my autonomous systems (such as OMNIAI and Celestera) process input, reason through tasks, and execute actions:*
+
+```mermaid
+flowchart LR
+    subgraph Perception ["🎙️ Multimodal Input"]
+        Audio["Voice Audio<br/>(Groq Whisper)"]
+        UI["Reactive HUD &<br/>Flutter Mobile"]
+    end
+
+    subgraph Cognition ["🧠 Reasoning Engine"]
+        Planner{"Agentic Task<br/>Planner"}
+        LLM["Groq LLM<br/>(Llama 3 Core)"]
+    end
+
+    subgraph Execution ["⚡ Execution & Feedback"]
+        OS["Local OS Automation<br/>(App Execution Bridge)"]
+        Web["Web Action Engine<br/>(Real-Time Retrieval)"]
+        TTS["Neural Speech<br/>(Microsoft Edge-TTS)"]
+    end
+
+    Audio --> Planner
+    UI --> Planner
+    Planner <--> LLM
+    Planner --> OS
+    Planner --> Web
+    Planner --> TTS
+
+    classDef default fill:#0d1117,stroke:#1a2240,stroke-width:1px,color:#e6edf3;
+    classDef highlight fill:#0a0f1e,stroke:#00f5ff,stroke-width:2px,color:#00f5ff;
+    classDef core fill:#0f1528,stroke:#b44fff,stroke-width:2px,color:#b44fff;
+    class Planner,LLM core;
+    class OS,Web,TTS,Audio,UI highlight;
+```
+
+<details>
+<summary><b>🔍 [EXPAND] Deep Dive: Inside the OMNIAI Agent Execution Loop</b></summary>
+<br />
+
+1. **Perception**: Audio buffers captured via Web Audio API or mobile mic are streamed to Groq Whisper for sub-second text transcription.
+2. **Intent Parsing**: The prompt is processed against dynamic tool signatures to determine if the query is conversational or requires system execution.
+3. **Safety-Guarded Execution**: Whitelisted application bridges invoke local Windows targets (`VS Code`, `Notepad`, `Calc`) without injecting unsanitized shell commands.
+4. **Multimodal Feedback**: Output payloads stream structured JSON to the React HUD while synthesizing neural audio with custom Edge-TTS prosody.
+</details>
 
 ---
 
@@ -57,7 +117,7 @@ I am a software developer focused on engineering practical, real-world applicati
   <img src="https://img.shields.io/badge/LLM_APIs-Groq-F55036?style=flat-square" alt="Groq API" />
   <img src="https://img.shields.io/badge/Voice_AI-Edge--TTS-0078D7?style=flat-square" alt="Edge-TTS" />
   <img src="https://img.shields.io/badge/Speech-Whisper_STT-2B2B2B?style=flat-square" alt="Whisper STT" />
-  <img src="https://img.shields.io/badge/Concepts-Agentic_AI-00f5ff?style=flat-square&logoColor=black" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Concepts-Agentic_AI-00F5FF?style=flat-square&logoColor=black" alt="Agentic AI" />
 </p>
 
 #### Tools & Data Analytics
@@ -114,13 +174,19 @@ I am a software developer focused on engineering practical, real-world applicati
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Telemetry
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AT-1006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9" height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AT-1006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" height="150" alt="Top Languages" />
 
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AT-1006&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=00F5FF&point=B44FFF&area=true&hide_border=true" width="100%" alt="Activity Telemetry Graph" />
 </div>
 
 <br />
